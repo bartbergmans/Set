@@ -3,6 +3,7 @@ package com.bartbergmans.set;
 
 public class Card {
 
+    private int mBartIsGek;
     private int mFill;
     private int mShape;
     private int mColor;
